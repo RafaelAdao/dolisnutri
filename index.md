@@ -1,11 +1,14 @@
 <img src="https://user-images.githubusercontent.com/5923706/125210608-4dd93c00-e277-11eb-9a22-48676b4d5e55.png" >
 
-Regras:
+### Premiação
 
-1. Válido somente para as regiões Sul e Sudeste do Brasil 📦
-2. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
-3. Frete grátis 😎
-4. O sorteio irá ocorrer após a venda de todos os números 🍀
+<img src="https://user-images.githubusercontent.com/5923706/125210871-cab8e580-e278-11eb-9f4e-e4ac5de736c7.png" >
+
+### Regras:
+
+1. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
+2. Frete grátis apenas para as regiões Sul e Sudeste do Brasil 📦 😎
+3. O sorteio irá ocorrer após a venda de todos os números 🍀🍀🍀
 ### Escolha seus números da sorte
 
 Os espaços com 🔒 já foram reservados 🧐
