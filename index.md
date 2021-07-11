@@ -2,8 +2,8 @@
 
 Regras:
 
-1. aaa
-2. bbb
+1. Válido somente para as regiões Sul e Sudeste do Brasil
+
 
 ### Escolha seus números da sorte
 
