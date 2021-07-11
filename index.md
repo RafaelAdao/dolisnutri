@@ -2,13 +2,13 @@
 
 Regras:
 
-1. Válido somente para as regiões Sul e Sudeste do Brasil
-2. Deve estar seguindo a minha conta <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a>
-3. Frete grátis
-4. Sorteio irá ocorrer após a venda de todos os números
+1. Válido somente para as regiões Sul e Sudeste do Brasil 📦
+2. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
+3. Frete grátis 😎
+4. O sorteio irá ocorrer após a venda de todos os números 🍀
 ### Escolha seus números da sorte
 
-Os espaços com 🔒 já estão reservados 🧐
+Os espaços com 🔒 já foram reservados 🧐
 
 <table>
   <tr>
