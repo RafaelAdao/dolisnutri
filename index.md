@@ -6,9 +6,11 @@
 
 ### Regras:
 
-1. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
-2. Frete grátis apenas para as regiões Sul e Sudeste do Brasil 📦 😎
-3. O sorteio irá ocorrer após a venda de todos os números 🍀🍀🍀
+- [x] Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
+- [x] Enviar comprovante via DM no instagram
+- [x] Frete grátis apenas para as regiões Sul e Sudeste do Brasil 📦 😎
+- [x] O sorteio irá ocorrer após a venda de todos os números 🍀🍀🍀
+
 ### Escolha seus números da sorte
 
 Os espaços com 🔒 já foram reservados 🧐
