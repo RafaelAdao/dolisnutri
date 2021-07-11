@@ -7,7 +7,7 @@
 ### Regras:
 
 1. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
-2. Enviar comprovante via DM no instagram
+2. Enviar comprovante do PIX via DM no instagram
 3. Frete grátis apenas para as regiões Sul e Sudeste do Brasil 📦 😎
 4. O sorteio irá ocorrer após a venda de todos os números 🍀🍀🍀
 
