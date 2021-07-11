@@ -16,7 +16,7 @@
  - Os espaços com 🔒 já foram reservados 🧐
  - Aproveita agora! Estamos com **100** números disponíveis 👇
 
-<table style="width:100%">
+<table style="width:100%;overflow-x:auto;">
   <tr>
     <td>01</td>
     <td>02</td>
