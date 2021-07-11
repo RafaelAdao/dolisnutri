@@ -14,7 +14,7 @@
 ### Escolha seus números da sorte
 
  - Os espaços com 🔒 já foram reservados 🧐
- - Aproveita agora! Estamos com <b>100</b> números disponíveis 👇
+ - Aproveita agora! Estamos com **100** números disponíveis 👇
 
 <table>
   <tr>
@@ -44,7 +44,7 @@
   <tr>
     <td>21</td>
     <td>22</td>
-    <td>🔒</td>
+    <td>23</td>
     <td>24</td>
     <td>25</td>
     <td>26</td>
