@@ -1,4 +1,4 @@
-## PIX Premiado
+<img src="https://user-images.githubusercontent.com/5923706/125210608-4dd93c00-e277-11eb-9a22-48676b4d5e55.png" class="aligncenter" >
 
 Regras:
 
@@ -132,6 +132,3 @@ Os espaços com 🔒 já foram reservados 🧐
     <td>100</td>
   </tr>
 </table>
-
-
-<img src="https://user-images.githubusercontent.com/5923706/125210608-4dd93c00-e277-11eb-9a22-48676b4d5e55.png" >
