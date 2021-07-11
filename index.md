@@ -7,7 +7,7 @@ Regras:
 
 ### Escolha seus números da sorte
 
-Os espaços com :lock: já estão reservados 🧐
+Os espaços com 🔒 já estão reservados 🧐
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ Os espaços com :lock: já estão reservados 🧐
   <tr>
     <td>21</td>
     <td>22</td>
-    <td>:lock:</td>
+    <td>🔒</td>
     <td>24</td>
     <td>25</td>
     <td>26</td>
