@@ -13,7 +13,7 @@
 
 1. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
 2. Enviar comprovante do PIX via DM no instagram
-3. Frete grátis apenas para a região Sul do Brasil 📦 😎
+3. Frete grátis apenas para São Paulo e a região Sul do Brasil 📦 😎
 4. O sorteio irá ocorrer após todos os números serem escolhidos 🍀🍀🍀
 
 ### Escolha seus números da sorte
