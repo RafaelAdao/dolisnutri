@@ -19,7 +19,7 @@
 ### Escolha seus números da sorte
 
  - Os espaços com 🔒 já foram reservados 🧐
- - Aproveita agora! Estamos com **100** números disponíveis 👇
+ - Aproveita agora! Estamos com **95** números disponíveis 👇
 
 <div style="overflow-x:auto;">
   <table>
@@ -29,14 +29,14 @@
       <td>03</td>
       <td>04</td>
       <td>05</td>
-      <td>06</td>
+      <td>🔒</td>
       <td>07</td>
       <td>08</td>
       <td>09</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>🔒</td>
       <td>12</td>
       <td>13</td>
       <td>14</td>
@@ -62,7 +62,7 @@
     <tr>
       <td>31</td>
       <td>32</td>
-      <td>33</td>
+      <td>🔒</td>
       <td>34</td>
       <td>35</td>
       <td>36</td>
@@ -73,7 +73,7 @@
     </tr>
     <tr>
       <td>41</td>
-      <td>42</td>
+      <td>🔒</td>
       <td>43</td>
       <td>44</td>
       <td>45</td>
@@ -101,7 +101,7 @@
       <td>63</td>
       <td>64</td>
       <td>65</td>
-      <td>66</td>
+      <td>🔒</td>
       <td>67</td>
       <td>68</td>
       <td>69</td>
