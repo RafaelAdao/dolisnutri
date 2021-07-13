@@ -41,7 +41,7 @@
       <td>13</td>
       <td>14</td>
       <td>15</td>
-      <td>16</td>
+      <td>🔒</td>
       <td>17</td>
       <td>18</td>
       <td>19</td>
@@ -51,7 +51,7 @@
       <td>21</td>
       <td>22</td>
       <td>23</td>
-      <td>24</td>
+      <td>🔒</td>
       <td>25</td>
       <td>26</td>
       <td>27</td>
