@@ -16,7 +16,7 @@
 1. Deve estar seguindo meu instagram <a href="https://www.instagram.com/isis.d.oli" class="fa fa-instagram">@isis.d.oli</a> 🎉
 2. Enviar comprovante do PIX ou PICPAY via DM no instagram
 4. Frete grátis apenas para São Paulo e a região Sul do Brasil 📦 😎
-5. O sorteio irá ocorrer após todos os números serem escolhidos 🍀🍀🍀
+5. O sorteio irá ocorrer após todos os números serem escolhidos 🍀🍀🍀 e será transmitido e gravado através de uma live no Instagram ✨💫 #instasorteios #natura #diadospais #masculino #barba #banho
 
 ### Escolha seus números da sorte
 
