@@ -21,7 +21,7 @@
 ### Escolha seus números da sorte
 
 - Os espaços com 🔒 já foram reservados 🧐
-- Aproveita agora! Estamos com **74** números disponíveis 👇
+- Aproveita agora! Estamos com **73** números disponíveis 👇
 
 <div style="overflow-x:auto;">
  <table>
@@ -102,7 +102,7 @@
     <td>62</td>
     <td>63</td>
     <td>64</td>
-    <td>65</td>
+    <td>🔒</td>
     <td>🔒</td>
     <td>67</td>
     <td>🔒</td>
