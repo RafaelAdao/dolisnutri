@@ -21,12 +21,12 @@
 ### Escolha seus números da sorte
 
 - Os espaços com 🔒 já foram reservados 🧐
-- Aproveita agora! Estamos com **66** números disponíveis 👇
+- Aproveita agora! Estamos com **65** números disponíveis 👇
 
 <div style="overflow-x:auto;">
  <table>
   <tr>
-    <td>01</td>
+    <td>🔒</td>
     <td>02</td>
     <td>🔒</td>
     <td>04</td>
